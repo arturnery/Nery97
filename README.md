@@ -1,6 +1,11 @@
 Bem vindo(a) ao meu perfil.
 
-Olá, me chamo Artur Nery.
+Olá, me chamo Artur Nery, sou aluno do curso Staart.
+
+<img width="363" alt="Mobox 3" src="https://user-images.githubusercontent.com/105114471/191289009-0d0bf0da-3abc-4e4c-a03c-89c6cd80d1d7.png">
+
+Moro em Curvelo - MG 🌐
+
 
 ## Meus hoobies
 
