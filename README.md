@@ -19,10 +19,9 @@ Olá, me chamo Artur Nery.
 
 # Contatos
 
--twittwe
-- lin
-- github
--email
+- Twitter: @artur3721
+- Linkedln: Artur Matoso Nery
+- Email: arturnery97@gmail.com
 
 
 
