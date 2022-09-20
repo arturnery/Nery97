@@ -9,9 +9,9 @@ Moro em Curvelo - MG 🌐
 
 ## Meus hoobies
 
-- Ler
-- Praticar Esportes
-- Estudar sobre criptomoeda e economia em geral
+- Ler.
+- Praticar Esportes.
+- Estudar sobre criptomoeda e economia em geral.
 - Jogar jogos eletronicos e de tabuleiro.
 - Assistir séries.
 
@@ -24,8 +24,8 @@ Moro em Curvelo - MG 🌐
 
 # Contatos
 
-- Twitter: @artur3721
-- Linkedln: Artur Matoso Nery
+- Twitter: https://twitter.com/artur3721
+- Linkedln: https://www.linkedin.com/in/artur-matoso-nery-84a4971a9/
 - Email: arturnery97@gmail.com
 
 
