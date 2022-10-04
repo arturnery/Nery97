@@ -9,6 +9,7 @@ Moro em Curvelo - MG 🌐
 
 ## Meus hoobies
 
+- AMO MINHA NAMORADA
 - Ler.
 - Praticar Esportes.
 - Estudar sobre criptomoeda e economia em geral.
